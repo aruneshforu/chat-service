@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+openai-key.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.vscode/
+secrets.txt
