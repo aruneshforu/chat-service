@@ -51,7 +51,7 @@ def home():
 
     return {
 
-        "message": "Deployed automatically with Cloud Build!",
+        "message": "Deployed automatically with Cloud Build! Build by Arunesh Kumar",
 
         "version": "2.0"
 
